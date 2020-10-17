@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2016 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string-array name="IKDA">
+        <item>Profil Guru Besar</item>
+        <item>Kata Pengantar</item>
+        <item>Pendahuluan</item>
+        <item>Ilham Pertama</item>
+        <item>Ilham Kedua</item>
+        <item>Ilham Ketiga</item>
+	</string-array>
+		<string-array name="IKDA_Detail">
+			<item>Profil Guru Besar</item>
+			<item>Atas berkat dan rahmat Allah Yang Mahakuasa akhirnya saya dapat menyelesaikan penulisan buku ini dan manyajikannya kepada para pembaca untuk diresapi isi dan makna yang terkandung di dalamnya.
+
+				Maksud dan tujuan penulisan buku ini sejalan dengan Pancasila sebagai dasar Negara kita Republik Indonesia dan juga UUD 1945 (khususnya pasal 29), yaitu agar para pembaca dapat mengetahui keadaan Allah yang sebenarnya untuk menuju kepada kesempurnaan iman, dan mengajak agar kita selalu ingat kepada Allah, di mana pun dan kapan pun.
+
+				Jika kita selalu ingat kepada Allah, niscaya Allah pun akan selalu ingat kepada kita, sehingga segala berkah dan rahmatNya akan selalu dilimpahkan kepada kita.
+
+				Akhir kata, semoga terbitnya buku yang sederhana ini dapat membantu tercapainya kesempurnaan iman kita agar kita selalu diridhoi Allah SWT di dunia maupun di akhirat. Amin ya Allah ya robbal alamin.
+
+				Jakarta, 17 Mei 1987
+
+				Wassalam,
+
+				H. Moh. Yusuf Suparta
+			</item>
+			<item>Pendahuluan</item>
+			<item>Ilham Pertama</item>
+			<item>Ilham Kedua</item>
+			<item>Ilham Ketiga</item>
+		</string-array>
+			
+   
+    
+    
+    
+	<string-array name="Pelajaran">
+	<item>1.Doa Penyerahan Diri</item>
+	<item>2.Doa Syukuran</item>
+	<item>3.Doa MohonAmpun/Pengampunan</item>
+	<item>4.Doa Mohon Kesadaran</item>
+	<item>5.Doa Mohon Ketenangan</item>
+	<item>6.Doa Mohon Rezeky</item>
+	<item>7.Doa Mohon Perlindungan</item>
+	<item>8.Doa KeAgungan/Pengisian</item>
+	<item>9.Doa Mohon KeWaspadaan</item>
+	</string-array>
+			
+    
+    <string-array name="place_locations">
+        <item>8 Rue Scribe, 75009 Paris, France</item>
+        <item>Piazza del Capitolo - 50122 Florence</item>
+        <item>New York City</item>
+        <item>2-3-1 Asakusa, Taitō-ku, Tokyo, Japan</item>
+        <item>At Meydanı No:7, 34122 Fatih/İstanbul, Turkey</item>
+        <item>Cape Town, South Africa</item>
+    </string-array>
+</resources>
+    

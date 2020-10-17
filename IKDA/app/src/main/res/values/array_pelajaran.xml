@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="Pelajaran">
+	<item>1.Gerakan Gaib</item>
+	<item>2.Kewaspadaan Mata Hati</item>
+	<item>3.Petunjuk Suara Gaib</item>
+	<item>4.Melancong Gaib</item>
+</string-array>
+<string-array name="Pelajaran_Detail">
+	<item>1.Gerakan Gaib</item>
+	<item>2.Kewaspadaan Mata Hati</item>
+	<item>3.Petunjuk Suara Gaib</item>
+	<item>4.Melancong Gaib</item>
+</string-array>
+</resources>
+        
